@@ -236,6 +236,13 @@
                   "children": {
                     "true": [
                       {
+                        "command": "EVENT_DEC_VALUE",
+                        "args": {
+                          "variable": "14"
+                        },
+                        "id": "6a40ccb6-47d8-4575-bbfb-0041ff0aef69"
+                      },
+                      {
                         "command": "EVENT_IF",
                         "args": {
                           "condition": {
@@ -249,7 +256,7 @@
                               "value": 0
                             }
                           },
-                          "__collapseElse": true
+                          "__collapseElse": false
                         },
                         "children": {
                           "true": [
@@ -296,82 +303,76 @@
                               "id": "0dc4484a-581c-40d6-9b6e-7b40631c2500"
                             }
                           ],
-                          "false": []
+                          "false": [
+                            {
+                              "command": "EVENT_ACTOR_DEACTIVATE",
+                              "args": {
+                                "actorId": "$self$"
+                              },
+                              "id": "f14eb302-d7fc-4491-a15f-64ac2176e156"
+                            },
+                            {
+                              "command": "EVENT_TEXT",
+                              "args": {
+                                "text": [
+                                  "Noob to late $14$"
+                                ],
+                                "__section": "text",
+                                "avatarId": "",
+                                "minHeight": 4,
+                                "maxHeight": 7,
+                                "textX": 1,
+                                "textY": 1,
+                                "textHeight": 5,
+                                "position": "bottom",
+                                "clearPrevious": true,
+                                "showFrame": "true",
+                                "speedIn": -1,
+                                "speedOut": -1,
+                                "closeWhen": "key",
+                                "closeButton": "a",
+                                "closeDelayTime": 0.5,
+                                "closeDelayFrames": 30,
+                                "__collapse": false
+                              },
+                              "id": "b0e0f17e-f6e4-46b1-81d2-41e6f5f17746"
+                            },
+                            {
+                              "command": "EVENT_ACTOR_MOVE_TO",
+                              "args": {
+                                "actorId": "$self$",
+                                "x": {
+                                  "type": "number",
+                                  "value": 26
+                                },
+                                "y": {
+                                  "type": "number",
+                                  "value": 25
+                                },
+                                "moveType": "horizontal",
+                                "useCollisions": false
+                              },
+                              "id": "cc4393f4-4a1d-4189-9e17-62370f0bc10c"
+                            },
+                            {
+                              "command": "EVENT_ACTOR_GET_POSITION",
+                              "args": {
+                                "actorId": "$self$",
+                                "vectorX": "L1",
+                                "vectorY": "L2"
+                              },
+                              "id": "2986224d-e68c-471f-ac6b-169872791614"
+                            },
+                            {
+                              "command": "EVENT_ACTOR_ACTIVATE",
+                              "args": {
+                                "actorId": "$self$"
+                              },
+                              "id": "a9353c0f-f514-435b-807a-eabf5155e2fe"
+                            }
+                          ]
                         },
                         "id": "c97f4b76-9ce5-420f-888b-6506512b8a68"
-                      },
-                      {
-                        "command": "EVENT_ACTOR_DEACTIVATE",
-                        "args": {
-                          "actorId": "$self$"
-                        },
-                        "id": "f14eb302-d7fc-4491-a15f-64ac2176e156"
-                      },
-                      {
-                        "command": "EVENT_DEC_VALUE",
-                        "args": {
-                          "variable": "14"
-                        },
-                        "id": "6a40ccb6-47d8-4575-bbfb-0041ff0aef69"
-                      },
-                      {
-                        "command": "EVENT_TEXT",
-                        "args": {
-                          "text": [
-                            "Noob to late $14$"
-                          ],
-                          "__section": "text",
-                          "avatarId": "",
-                          "minHeight": 4,
-                          "maxHeight": 7,
-                          "textX": 1,
-                          "textY": 1,
-                          "textHeight": 5,
-                          "position": "bottom",
-                          "clearPrevious": true,
-                          "showFrame": "true",
-                          "speedIn": -1,
-                          "speedOut": -1,
-                          "closeWhen": "key",
-                          "closeButton": "a",
-                          "closeDelayTime": 0.5,
-                          "closeDelayFrames": 30,
-                          "__collapse": false
-                        },
-                        "id": "b0e0f17e-f6e4-46b1-81d2-41e6f5f17746"
-                      },
-                      {
-                        "command": "EVENT_ACTOR_MOVE_TO",
-                        "args": {
-                          "actorId": "$self$",
-                          "x": {
-                            "type": "number",
-                            "value": 26
-                          },
-                          "y": {
-                            "type": "number",
-                            "value": 25
-                          },
-                          "moveType": "horizontal",
-                          "useCollisions": false
-                        },
-                        "id": "cc4393f4-4a1d-4189-9e17-62370f0bc10c"
-                      },
-                      {
-                        "command": "EVENT_ACTOR_GET_POSITION",
-                        "args": {
-                          "actorId": "$self$",
-                          "vectorX": "L1",
-                          "vectorY": "L2"
-                        },
-                        "id": "2986224d-e68c-471f-ac6b-169872791614"
-                      },
-                      {
-                        "command": "EVENT_ACTOR_ACTIVATE",
-                        "args": {
-                          "actorId": "$self$"
-                        },
-                        "id": "a9353c0f-f514-435b-807a-eabf5155e2fe"
                       }
                     ],
                     "false": []
