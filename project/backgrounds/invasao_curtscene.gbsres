@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "41dc405d-2884-4bf1-8dc3-77f35f73e96b",
+  "name": "invasao_Curtscene",
+  "symbol": "bg_invasao_curtscene",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "invasao_Curtscene.png",
+  "tileColors": "",
+  "autoColor": false
+}

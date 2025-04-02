@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "960207c7-5db8-4ec3-8be8-8e6f142945fd",
+  "_index": 4,
+  "name": "General/Luso Credits",
+  "backgroundId": "ca890690-c6d5-4941-b9e9-977d5106b076",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_5",
+  "x": 112,
+  "y": 120,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

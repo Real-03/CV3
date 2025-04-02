@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "ca890690-c6d5-4941-b9e9-977d5106b076",
+  "name": "LusoCredits",
+  "symbol": "bg_lusocredits",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "LusoCredits.png",
+  "tileColors": "01168+",
+  "autoColor": false
+}

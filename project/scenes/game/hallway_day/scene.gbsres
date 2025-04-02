@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "7a0dfbaa-2369-4d82-ad82-bb6dd4dcc359",
+  "_index": 8,
+  "name": "Game/Hallway Day",
+  "backgroundId": "087fd7f7-73ee-4a3e-84ac-c49c925eaf2d",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "00118+0f50+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_9",
+  "x": 696,
+  "y": 304,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

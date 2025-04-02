@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "ed4b7683-c835-46dd-9381-4833202d09a3",
+  "_index": 15,
+  "name": "Game/Stairs Night",
+  "backgroundId": "ba3636cd-c379-465b-ba2d-d1a52c5f913c",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_16",
+  "x": 304,
+  "y": 648,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

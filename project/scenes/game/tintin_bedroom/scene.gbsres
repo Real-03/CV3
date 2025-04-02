@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "8f897e8c-80ec-4bc0-bed4-9e1e8c238038",
+  "_index": 7,
+  "name": "Game/Tintin Bedroom",
+  "backgroundId": "4784f6ad-50b0-41db-a322-bd0a20227e34",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "00de+0f!004+0f!00e+0f6+00e+0f6+001a+0f5+0010+0f!0013+0f!0013+0f!004+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_8",
+  "x": 112,
+  "y": 472,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "e9743ece-e6c7-436c-a79d-e26f48ba2463"
+}

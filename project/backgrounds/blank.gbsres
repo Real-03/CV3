@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "5a596953-ef82-4ebe-b0c9-a82eae93b214",
+  "name": "blank",
+  "symbol": "bg_blank",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "blank.png",
+  "tileColors": "",
+  "autoColor": false
+}

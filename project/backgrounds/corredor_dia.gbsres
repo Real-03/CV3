@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "087fd7f7-73ee-4a3e-84ac-c49c925eaf2d",
+  "name": "corredor_dia",
+  "symbol": "bg_corredor_dia",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "corredor_dia.png",
+  "tileColors": "01168+",
+  "autoColor": false
+}

@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "caecc2b6-6df5-41fe-ada0-284fcdb4a946",
+  "name": "portas",
+  "symbol": "bg_portas",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "portas.png",
+  "tileColors": "",
+  "autoColor": false
+}

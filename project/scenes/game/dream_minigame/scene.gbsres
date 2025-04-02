@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "8a40230e-99bc-4cc2-8261-7138ba551439",
+  "_index": 11,
+  "name": "Game/Dream Minigame",
+  "backgroundId": "5a596953-ef82-4ebe-b0c9-a82eae93b214",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_12",
+  "x": 496,
+  "y": 472,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "1b9e9aaf-10e3-4e4a-adb8-b75bd224b251",
+  "_index": 14,
+  "name": "Game/Final Cutscene",
+  "backgroundId": "a8d9e9e1-df78-45f7-9836-4eaa44100a78",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_15",
+  "x": 696,
+  "y": 648,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

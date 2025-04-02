@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "500629eb-547c-435e-ae94-9c59cebef2fa",
+  "_index": 9,
+  "name": "Game/Tintin House",
+  "backgroundId": "889b7b6b-ad26-4cd6-bca5-8cb1dd658a8b",
+  "tilesetId": "",
+  "width": 20,
+  "height": 17,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "00154+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_10",
+  "x": 304,
+  "y": 304,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

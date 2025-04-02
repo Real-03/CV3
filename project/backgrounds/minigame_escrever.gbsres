@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "1946bf53-e110-4330-a670-0393e1b550b9",
+  "name": "minigame_escrever",
+  "symbol": "bg_minigame_escrever",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "minigame_escrever.png",
+  "tileColors": "01168+",
+  "autoColor": false
+}

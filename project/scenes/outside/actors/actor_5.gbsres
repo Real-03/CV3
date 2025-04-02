@@ -1,0 +1,178 @@
+{
+  "_resourceType": "actor",
+  "id": "a85c4ba5-9bc0-4daa-94bc-4ef68a690659",
+  "_index": 4,
+  "symbol": "actor_5",
+  "prefabId": "",
+  "name": "",
+  "x": 6,
+  "y": 23,
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "f0c3033d-e82a-407d-9fe2-3d5da4f59c09",
+  "paletteId": "",
+  "direction": "up",
+  "moveSpeed": 1,
+  "animSpeed": 255,
+  "isPinned": false,
+  "persistent": true,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "script": [
+    {
+      "id": "81f7693e-8544-4bb2-bf47-b8963fe90982",
+      "command": "EVENT_IF",
+      "args": {
+        "variable": "1",
+        "condition": {
+          "type": "variable",
+          "value": "1"
+        }
+      },
+      "children": {
+        "true": [
+          {
+            "id": "a991435c-89ad-4303-b6f0-a18054cc0ea7",
+            "command": "EVENT_TEXT",
+            "args": {
+              "text": "I guess it was a\nmisunderstanding."
+            }
+          },
+          {
+            "id": "be420a1a-743e-4afc-a997-daf721708b34",
+            "command": "EVENT_SET_VALUE",
+            "args": {
+              "variable": "8",
+              "value": {
+                "type": "true"
+              }
+            }
+          }
+        ],
+        "false": [
+          {
+            "id": "1063f8a8-90b7-4126-b6e4-1daf7c359c87",
+            "command": "EVENT_TEXT",
+            "args": {
+              "text": "What is that guy\nlooking at?"
+            }
+          },
+          {
+            "id": "7a86534c-dd9f-4005-b2e7-c880ea3f9014",
+            "command": "EVENT_ACTOR_SET_DIRECTION",
+            "args": {
+              "actorId": "a85c4ba5-9bc0-4daa-94bc-4ef68a690659",
+              "direction": {
+                "type": "direction",
+                "value": "up"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "startScript": [
+    {
+      "command": "EVENT_SET_VALUE",
+      "args": {
+        "variable": "L0",
+        "value": {
+          "type": "number",
+          "value": 0
+        }
+      },
+      "id": "b84360f2-2be6-4f0a-add0-661268f5926c"
+    }
+  ],
+  "updateScript": [
+    {
+      "command": "EVENT_LOOP_WHILE",
+      "args": {
+        "condition": {
+          "type": "lt",
+          "valueA": {
+            "type": "variable",
+            "value": "L0"
+          },
+          "valueB": {
+            "type": "number",
+            "value": 10
+          }
+        }
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_IF",
+            "args": {
+              "condition": {
+                "type": "ne",
+                "valueA": {
+                  "type": "variable",
+                  "value": "L0"
+                },
+                "valueB": {
+                  "type": "variable",
+                  "value": "13"
+                }
+              },
+              "__collapseElse": false
+            },
+            "children": {
+              "true": [
+                {
+                  "command": "EVENT_ACTOR_SET_FRAME",
+                  "args": {
+                    "actorId": "$self$",
+                    "frame": {
+                      "type": "number",
+                      "value": 1
+                    }
+                  },
+                  "id": "c6fb6ca6-38c4-49d4-8e25-8a1c9c06c37a"
+                },
+                {
+                  "command": "EVENT_WAIT",
+                  "args": {
+                    "time": 0.5,
+                    "frames": 30
+                  },
+                  "id": "ff36fa48-23c7-4e7c-bf0e-43cdc1c38272"
+                },
+                {
+                  "command": "EVENT_ACTOR_SET_FRAME",
+                  "args": {
+                    "actorId": "$self$",
+                    "frame": {
+                      "type": "number",
+                      "value": 0
+                    }
+                  },
+                  "id": "6d51d906-45c2-47c6-a71a-b25994d45637"
+                },
+                {
+                  "command": "EVENT_SET_VALUE",
+                  "args": {
+                    "variable": "L0",
+                    "value": {
+                      "type": "variable",
+                      "value": "13"
+                    }
+                  },
+                  "id": "e57efaec-0630-4ae3-bf7a-8b41fdc75be7"
+                }
+              ],
+              "false": []
+            },
+            "id": "8837f897-21e0-48f3-b088-28e9e5a5fe80"
+          }
+        ]
+      },
+      "id": "fc066949-5d2e-493b-9b46-7f56b0350b8b"
+    }
+  ],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": []
+}

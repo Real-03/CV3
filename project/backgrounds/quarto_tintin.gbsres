@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "4784f6ad-50b0-41db-a322-bd0a20227e34",
+  "name": "quarto_tintin",
+  "symbol": "bg_quarto_tintin",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "quarto_tintin.png",
+  "tileColors": "01168+",
+  "autoColor": false
+}

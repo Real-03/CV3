@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "cad49844-dde2-47a2-8963-155dd0169c4b",
+  "_index": 10,
+  "name": "Game/Writing Minigame",
+  "backgroundId": "1946bf53-e110-4330-a670-0393e1b550b9",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_11",
+  "x": 304,
+  "y": 472,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "e9743ece-e6c7-436c-a79d-e26f48ba2463"
+}

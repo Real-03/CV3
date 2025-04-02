@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "551cd499-783e-424e-9353-7fd41e1a428c",
+  "_index": 13,
+  "name": "Game/Hallway Night",
+  "backgroundId": "caecc2b6-6df5-41fe-ada0-284fcdb4a946",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_14",
+  "x": 112,
+  "y": 648,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

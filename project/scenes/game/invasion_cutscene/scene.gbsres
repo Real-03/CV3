@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "f4e4ae36-97cb-4ece-badf-e04356a534eb",
+  "_index": 12,
+  "name": "Game/Invasion Cutscene",
+  "backgroundId": "41dc405d-2884-4bf1-8dc3-77f35f73e96b",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_13",
+  "x": 696,
+  "y": 472,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

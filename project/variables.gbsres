@@ -1,0 +1,185 @@
+{
+  "_resourceType": "variables",
+  "variables": [
+    {
+      "id": "0",
+      "name": "Seen Cat",
+      "symbol": ""
+    },
+    {
+      "id": "1",
+      "name": "Seen duck",
+      "symbol": ""
+    },
+    {
+      "id": "2",
+      "name": "Used Radio",
+      "symbol": ""
+    },
+    {
+      "id": "3",
+      "name": "Spoke To Space Dog",
+      "symbol": ""
+    },
+    {
+      "id": "4",
+      "name": "Quest1",
+      "symbol": ""
+    },
+    {
+      "id": "5",
+      "name": "Quest2",
+      "symbol": ""
+    },
+    {
+      "id": "6",
+      "name": "Quest3",
+      "symbol": ""
+    },
+    {
+      "id": "7",
+      "name": "Quest4",
+      "symbol": ""
+    },
+    {
+      "id": "8",
+      "name": "Quest5",
+      "symbol": ""
+    },
+    {
+      "id": "9",
+      "name": "Quest6",
+      "symbol": ""
+    },
+    {
+      "id": "10",
+      "name": "NewGame",
+      "symbol": ""
+    },
+    {
+      "id": "11",
+      "name": "SaveGame",
+      "symbol": ""
+    },
+    {
+      "id": "12",
+      "name": "PushedIceBlock",
+      "symbol": ""
+    },
+    {
+      "id": "13",
+      "name": "RightTime",
+      "symbol": "var_righttime"
+    },
+    {
+      "id": "14",
+      "name": "Lifes",
+      "symbol": "var_lifes"
+    },
+    {
+      "id": "e63a0fb5-2d9e-4a85-9ba0-e711e6de6cdc__L1",
+      "name": "PositionX",
+      "symbol": "var_positionx"
+    },
+    {
+      "id": "e63a0fb5-2d9e-4a85-9ba0-e711e6de6cdc__L2",
+      "name": "PositionY",
+      "symbol": "var_positiony"
+    },
+    {
+      "id": "e63a0fb5-2d9e-4a85-9ba0-e711e6de6cdc__L0",
+      "name": "Local 0",
+      "symbol": "var_local_0"
+    },
+    {
+      "id": "a269536f-2dbf-49fe-92d7-cd6718d964c8__L1",
+      "name": "PositionX",
+      "symbol": "var_positionx_0"
+    },
+    {
+      "id": "a269536f-2dbf-49fe-92d7-cd6718d964c8__L2",
+      "name": "PositionY",
+      "symbol": "var_positiony_0"
+    },
+    {
+      "id": "a269536f-2dbf-49fe-92d7-cd6718d964c8__L0",
+      "name": "Local 0",
+      "symbol": "var_local_1"
+    },
+    {
+      "id": "3dd7bbc9-72ad-4e2d-83c8-7b0cff5aba24__L1",
+      "name": "PositionX",
+      "symbol": "var_positionx_1"
+    },
+    {
+      "id": "3dd7bbc9-72ad-4e2d-83c8-7b0cff5aba24__L2",
+      "name": "PositionY",
+      "symbol": "var_positiony_1"
+    },
+    {
+      "id": "3dd7bbc9-72ad-4e2d-83c8-7b0cff5aba24__L0",
+      "name": "Local 0",
+      "symbol": "var_local_2"
+    },
+    {
+      "id": "c4ee9bed-a136-4b84-9540-b0846a92e4fd__L1",
+      "name": "PositionX",
+      "symbol": "var_positionx_2"
+    },
+    {
+      "id": "c4ee9bed-a136-4b84-9540-b0846a92e4fd__L2",
+      "name": "PositionY",
+      "symbol": "var_positiony_2"
+    },
+    {
+      "id": "c4ee9bed-a136-4b84-9540-b0846a92e4fd__L0",
+      "name": "Local 0",
+      "symbol": "var_local_3"
+    },
+    {
+      "id": "5f39498e-61fb-40b6-afe9-1cb4382df040__L1",
+      "name": "PositionX",
+      "symbol": "var_positionx_3"
+    },
+    {
+      "id": "5f39498e-61fb-40b6-afe9-1cb4382df040__L2",
+      "name": "PositionY",
+      "symbol": "var_positiony_3"
+    },
+    {
+      "id": "5f39498e-61fb-40b6-afe9-1cb4382df040__L0",
+      "name": "Local 0",
+      "symbol": "var_local_4"
+    },
+    {
+      "id": "40459dac-f591-4372-847a-510c3cdb2595__L1",
+      "name": "PositionX",
+      "symbol": "var_positionx_4"
+    },
+    {
+      "id": "40459dac-f591-4372-847a-510c3cdb2595__L2",
+      "name": "PositionY",
+      "symbol": "var_positiony_4"
+    },
+    {
+      "id": "40459dac-f591-4372-847a-510c3cdb2595__L0",
+      "name": "Local 0",
+      "symbol": "var_local_5"
+    },
+    {
+      "id": "6162969b-9301-47b3-b6ae-74aa16c38918__L1",
+      "name": "PositionX",
+      "symbol": "var_positionx_5"
+    },
+    {
+      "id": "6162969b-9301-47b3-b6ae-74aa16c38918__L2",
+      "name": "PositionY",
+      "symbol": "var_positiony_5"
+    },
+    {
+      "id": "6162969b-9301-47b3-b6ae-74aa16c38918__L0",
+      "name": "Local 0",
+      "symbol": "var_local_6"
+    }
+  ]
+}

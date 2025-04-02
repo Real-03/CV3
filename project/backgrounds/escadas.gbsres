@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "ba3636cd-c379-465b-ba2d-d1a52c5f913c",
+  "name": "escadas",
+  "symbol": "bg_escadas",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "escadas.png",
+  "tileColors": "01168+",
+  "autoColor": false
+}

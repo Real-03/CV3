@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "0b22abb6-dd61-403b-9c47-8b6598304685",
+  "name": "cutscene_tintin_a_fugir",
+  "symbol": "bg_cutscene_tintin_a_fugir",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "cutscene_tintin_a_fugir.png",
+  "tileColors": "01168+",
+  "autoColor": false
+}

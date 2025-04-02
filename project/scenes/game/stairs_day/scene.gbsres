@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "d6a8a0c8-fb27-40b3-991f-b38439424d7e",
+  "_index": 6,
+  "name": "Game/Stairs Day",
+  "backgroundId": "ba3636cd-c379-465b-ba2d-d1a52c5f913c",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_7",
+  "x": 496,
+  "y": 304,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

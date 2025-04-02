@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "889b7b6b-ad26-4cd6-bca5-8cb1dd658a8b",
+  "name": "casa_tintin",
+  "symbol": "bg_casa_tintin",
+  "width": 20,
+  "height": 17,
+  "imageWidth": 160,
+  "imageHeight": 140,
+  "filename": "casa_tintin.png",
+  "tileColors": "01154+",
+  "autoColor": false
+}

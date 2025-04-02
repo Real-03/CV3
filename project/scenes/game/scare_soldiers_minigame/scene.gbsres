@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "d20793d4-6db8-4985-af0b-254a7ee90183",
+  "_index": 16,
+  "name": "Game/Scare Soldiers Minigame",
+  "backgroundId": "5a596953-ef82-4ebe-b0c9-a82eae93b214",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_17",
+  "x": 496,
+  "y": 648,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

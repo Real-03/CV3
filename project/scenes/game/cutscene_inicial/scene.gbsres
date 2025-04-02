@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "73537f97-405c-41c8-96a7-3e3d57ceb84d",
+  "_index": 5,
+  "name": "Game/Cutscene Inicial",
+  "backgroundId": "0b22abb6-dd61-403b-9c47-8b6598304685",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_6",
+  "x": 112,
+  "y": 304,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}
